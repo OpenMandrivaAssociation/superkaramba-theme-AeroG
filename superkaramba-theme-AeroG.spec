@@ -7,7 +7,7 @@ Version:	0.8
 Release:	8
 License:	GPL
 Group:		Monitoring
-Url:		http://kde-look.org/content/show.php?content=21407
+Url:		https://kde-look.org/content/show.php?content=21407
 Source0:	%{theme_name}.tar.bz2
 Requires:	superkaramba
 BuildArch:	noarch
